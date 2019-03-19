@@ -2,6 +2,7 @@
 
 # Case 1: only observational data
 
+# load required libraries
 library(pcalg)
 library(mvtnorm)
 
